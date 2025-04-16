@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction using Machine Learning
 
 Welcome to the **Heart Disease Prediction** project! This machine learning project uses various models to predict the likelihood of heart disease based on patient data such as age, blood pressure, cholesterol, and ECG results.
 
