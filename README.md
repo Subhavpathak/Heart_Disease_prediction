@@ -31,13 +31,13 @@ Welcome to the **Heart Disease Prediction** project! This machine learning proje
 ## 🧠 Models Used
 
 ### 🔍 Logistic Regression
-- **Accuracy:** 78.69%
+- **Accuracy:** 78.4549%
 
 ### 🌲 Random Forest Classifier
-- **Accuracy:** 81.97%
+- **Accuracy:** 80.3279%
 
 ### 🤝 Stacking Classifier (Hybrid)
-- **Accuracy:** 83.60% ✅
+- **Accuracy:** 80.3279%
 - Combines Logistic Regression & Random Forest
 
 ---
